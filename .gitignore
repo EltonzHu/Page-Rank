@@ -1,0 +1,6 @@
+.idea/
+PageRank.iml
+data/
+*.class
+*.jar
+build.sh
